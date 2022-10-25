@@ -1,0 +1,90 @@
+variety,date,currentPrice,previousPrice,change
+Wood Colony,8/11/2021,2.02,2.0,0.01
+Nonpareil Inshell,8/11/2021,2.9,2.75,0.0545
+Independence,7/28/2021,2.45,2.25,0.0889
+Fritz,7/16/2021,1.95,1.67,0.1677
+Carmel Meats,7/08/2021,1.68,1.67,0.006
+Wood Colony,6/29/2021,1.67,1.67,0.0
+Fritz,6/29/2021,1.65,1.65,0.0
+Monterey Meats,6/22/2021,1.67,1.62,0.030899999999999997
+California Meats,6/14/2021,1.6,1.6,0.0
+Independence,6/01/2021,1.7,1.65,0.030299999999999997
+Fritz,5/21/2021,1.52,1.48,0.027000000000000003
+Nonpareil Meats,5/21/2021,2.0,2.0,0.0
+Padre Meats,5/17/2021,1.48,1.48,0.0
+Padre Meats,4/21/2021,1.48,1.42,0.042300000000000004
+Butte Meats,3/29/2021,1.42,1.42,0.0
+Nonpareil Inshell,3/22/2021,1.97,1.92,0.026000000000000002
+Independence,3/15/2021,1.63,1.7,-0.0412
+Carmel Meats,3/09/2021,1.47,1.5,-0.02
+Monterey Meats,2/25/2021,1.5,1.65,-0.0909
+Fritz,2/08/2021,1.55,1.64,-0.054900000000000004
+Nonpareil Inshell,2/08/2021,1.9,1.98,-0.0404
+Mission Inshell,1/04/2021,1.63,1.6,0.018799999999999997
+Sonora Inshell,1/04/2021,2.07,1.98,0.0455
+Independence,12/28/2020,1.79,1.77,0.0113
+Wood Colony,12/18/2020,1.7,1.66,0.0241
+Butte Inshell,12/14/2020,1.53,1.43,0.0699
+Padre Meats,9/08/2020,1.53,1.53,0.0
+California Meats,8/26/2020,1.44,1.5,-0.04
+California Inshell,8/20/2020,1.5,1.42,0.056299999999999996
+Sonora Inshell,8/14/2020,1.7,1.75,-0.0286
+Butte Inshell,7/06/2020,1.49,1.51,-0.0132
+Fritz,6/23/2020,1.51,1.54,-0.0195
+Monterey Meats,6/15/2020,1.54,1.59,-0.031400000000000004
+Monterey Meats,6/04/2020,1.62,1.65,-0.0182
+Fritz,5/21/2020,1.62,2.54,-0.36219999999999997
+Nonpareil Inshell,4/30/2020,2.25,2.8,-0.19640000000000002
+California Meats,1/17/2020,2.56,2.66,-0.037599999999999995
+Carmel Inshell,11/25/2019,2.66,2.68,-0.0075
+Padre Inshell,10/15/2019,2.63,2.48,0.0605
+Sonora Inshell,9/26/2019,2.62,2.82,-0.0709
+Mission Inshell,9/16/2019,2.45,2.6,-0.057699999999999994
+Independence,8/15/2019,2.67,2.52,0.059500000000000004
+Nonpareil Inshell,7/09/2019,2.82,2.86,-0.013999999999999999
+Fritz,3/26/2019,2.46,2.4,0.025
+Wood Colony,2/20/2019,2.4,2.42,-0.0083
+Mission Inshell,1/17/2019,2.4,2.32,0.0345
+Padre Inshell,12/17/2018,2.37,2.25,0.0533
+Mission Inshell,11/30/2018,2.32,2.25,0.0311
+Independence,11/15/2018,2.42,2.38,0.0168
+California Inshell,11/06/2018,2.26,2.1,0.0762
+Nonpareil Inshell,11/06/2018,2.72,2.67,0.0187
+Monterey Inshell,10/16/2018,2.11,2.12,-0.004699999999999999
+Carmel Inshell,9/04/2018,2.12,2.4,-0.1167
+Sonora Inshell,8/04/2018,3.0,3.0,0.0
+Nonpareil Inshell,1/03/2017,2.83,3.0,-0.0567
+Carmel Inshell,10/19/2016,2.63,2.38,0.105
+Carmel Inshell,10/07/2016,2.38,2.05,0.161
+California Inshell,9/09/2016,1.97,1.97,0.0
+Carmel Inshell,9/05/2016,2.05,2.13,-0.037599999999999995
+Nonpareil Inshell,7/06/2016,2.55,2.64,-0.0341
+Carmel Inshell,5/25/2016,2.29,2.16,0.0602
+Monterey Inshell,5/14/2016,2.16,1.98,0.0909
+California Inshell,3/09/2016,1.9,2.5,-0.24
+Monterey Inshell,1/26/2016,2.62,3.85,-0.3195
+Carmel Inshell,10/22/2015,3.85,3.9,-0.0128
+Padre Inshell,9/24/2015,3.88,4.27,-0.0913
+Mission Inshell,8/28/2015,4.27,4.22,0.0118
+Nonpareil Inshell,8/12/2015,4.85,4.86,-0.0021
+Nonpareil Inshell,7/10/2015,4.98,4.55,0.09449999999999999
+Monterey Inshell,7/08/2015,4.38,4.18,0.0478
+Monterey Inshell,6/26/2015,4.18,4.33,-0.0346
+Sonora Inshell,5/19/2015,4.8,4.7,0.0213
+Monterey Inshell,5/07/2015,4.2,4.15,0.012
+California Inshell,4/08/2015,3.92,3.74,0.0481
+Aldrich Inshell,11/17/2014,3.66,3.75,-0.024
+Nonpareil Inshell,10/29/2014,4.02,4.17,-0.036000000000000004
+Nonpareil Inshell,10/24/2014,4.17,4.22,-0.0118
+Sonora Inshell,9/26/2014,4.22,4.2,0.0048
+Nonpareil Inshell,9/18/2014,4.2,4.12,0.0194
+Sonora Inshell,9/09/2014,4.12,4.0,0.03
+Carmel Inshell,8/27/2014,3.6,3.6,0.0
+Mission Inshell,8/26/2014,3.14,3.02,0.0397
+Nonpareil Inshell,8/16/2014,3.86,3.65,0.0575
+Sonora Inshell,8/04/2014,3.65,3.7,-0.013500000000000002
+Nonpareil Inshell,7/30/2014,3.7,3.65,0.0137
+Padre Inshell,7/16/2014,3.0,2.95,0.0169
+Mission Inshell,5/06/2014,3.05,2.9,0.051699999999999996
+California Inshell,3/18/2014,3.5,3.48,0.005699999999999999
+Padre Inshell,2/21/2014,3.15,2.8,0.125
